@@ -1,6 +1,5 @@
 import Deck from './deck'
 
-
 let deck: Deck = new Deck()
 
 console.log(deck.toString())
